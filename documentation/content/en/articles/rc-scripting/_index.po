@@ -1104,7 +1104,7 @@ msgid ""
 "proper ownership and mode.  System scripts should be installed from [."
 "filename]#src/libexec/rc/rc.d# through the [.filename]#Makefile# found "
 "there.  Port scripts can be installed using `USE_RC_SUBR` as described "
-"extref:{porters-handbook}[in the Porter's Handbook, rc-scripts]."
+"extref:{porters-handbook/config}[in the Porter's Handbook, rc-scripts]."
 msgstr ""
 
 #. type: delimited block = 4
